@@ -1,6 +1,5 @@
 # Readme
 ## SalesDataInsight.ipynb
-Author: Rodrigo Chavez
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -10,7 +9,7 @@ Author: Rodrigo Chavez
 - matplotlib
 - seaborn
 ## Motivations for Project
-The motivation for this project is to provide insight to a series of sales data to an anonymous superstore.
+The motivation of this project is to provide insight to a series of sales data to an anonymous superstore
 ## The purpose of this notebook is to answer the following questions:
 
 - What are the most profitable product groups?
@@ -27,11 +26,12 @@ It is important to note that in order for the code to run that Sample - Supersto
 _Sample.csv is to be placed in the Downloads folder._
 
 ## Result Summary:
-After removing unprofitable transactions from the year 2017 data set we obtain the following result:
->>>>Profit= $147,275.46
-Original Profit = $93,439.27
-Variation% =57.61%
+After removing unprofitable transactions from the data set we obtain the following result:
+Profit Comparison
+            Profit  Original Profit  Variation%
+Result                                         
+0       147275.463       93439.2696    0.576162
 
-
-  
+## Blog Link:
+  https://medium.com/@rodrigojchavez/in-the-pursuit-of-profitability-885e8ef9553e
  
